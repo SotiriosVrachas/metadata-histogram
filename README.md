@@ -1,6 +1,8 @@
 # Metadata Histogram
+![Metadata Histogram/CGI](https://github.com/SotiriosVrachas/metadata-histogram/raw/master/cgi.jpg "Metadata Histogram/CGI")
 
 ABS used: 51g
+
 Printing time: ~4 Hr.
 
 ```
