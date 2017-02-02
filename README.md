@@ -35,8 +35,7 @@ Shorter process.
 Commands for other log types. Git and Thunderbird store similar metadata
 but for a longer period of time.
 
-There is a 15 minute gap at day 7 around the time that I captured the data. I added the rest of the data for that day afterwards. My logs start at 8:00 every
-day so I had to capture data twice to get a full dataset.
+There is a 15 minute gap at day 7 around the time that I captured the data. I added the rest of the data for that day afterwards and added an estimated value to that slot. My logs start at 8:00 every day so I had to capture data twice to get a full dataset.
 
 ## License
 Metadata Histogram by Sotirios Vrachas is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
