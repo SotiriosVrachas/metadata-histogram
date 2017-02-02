@@ -27,13 +27,16 @@ uniq -c log > logfreq
 Then logfreq > chart.ods > data formating > chart.svg > lines to closed paths > waves.svg > waves.fcstd > extrude paths > wave*.stl
 
 ## Wanted features
-Day 1 and 2 are missing the activity that hapend around 23:00 due to shorter
-dataranges in calc.
+Day 1 and 2 are missing the activity that happen around 23:00 due to shorter
+data ranges in calc.
 
 Shorter process.
 
 Commands for other log types. Git and Thunderbird store similar metadata
 but for a longer period of time.
+
+There is a 15 minute gap at day 7 around the time that I captured the data. I added the rest of the data for that day afterwards. My logs start at 8:00 every
+day so I had to capture data twice to get a full dataset.
 
 ## License
 Metadata Histogram by Sotirios Vrachas is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
