@@ -1,6 +1,6 @@
 # Metadata Histogram
 ![Metadata Histogram/CGI](https://github.com/SotiriosVrachas/metadata-histogram/raw/master/cgi.jpg "Metadata Histogram/CGI")
-A seven day laptop usage physical profile. What can the timestamps alone of the metadata that I generating simply by using a computer revile about me?
+A seven day laptop usage physical profile. What can the timestamps alone of the metadata that I generating simply by using a computer reveal about me?
 
 ## Documentation
 ABS used: 51g
@@ -42,4 +42,4 @@ day so I had to capture data twice to get a full dataset.
 Metadata Histogram by Sotirios Vrachas is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 ## Inspiration
-"I search, therefore I am" Workshop by Kyriaki Goni
+"I search, therefore I am" Workshop with Kyriaki Goni
