@@ -38,7 +38,7 @@ but for a longer period of time.
 There is a 15 minute gap at day 7 around the time that I captured the data. I added the rest of the data for that day afterwards and added an estimated value to that slot. My logs start at 8:00 every day so I had to capture data twice to get a full dataset.
 
 ## License
-(Metadata Histogram)[http://www.vrachas.com/metadata-histogram] by (Sotirios Vrachas)[http://www.vrachas.com/] is licensed under a (Creative Commons Attribution-ShareAlike 4.0 International License)[https://creativecommons.org/licenses/by-sa/4.0/].
+[Metadata Histogram](http://www.vrachas.com/metadata-histogram) by [Sotirios Vrachas](http://www.vrachas.com/) is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ## Inspiration
 "I search, therefore I am" Workshop with [Kyriaki Goni](http://kyriakigoni.com)
